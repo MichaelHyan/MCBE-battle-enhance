@@ -1,0 +1,43 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "items:sword_u"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "aea",
+      "bfc",
+      "dgd"
+    ],
+    "key": {
+      "a": {
+        "item": "items:ring"
+      },
+      "b": {
+        "item": "items:mirror_c"
+      },
+      "c": {
+        "item": "items:mirror_d"
+      },
+      "d": {
+        "item": "items:lightning_wood"
+      },
+      "e": {
+        "item": "items:tca"
+      },
+      "f": {
+        "item": "items:soul_banner"
+      },
+      "g": {
+        "item": "gold_block"
+      }
+    },
+    "result": {
+      "item": "items:sword_u",
+      "count": 1
+    }
+  }
+}

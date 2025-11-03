@@ -1,0 +1,21 @@
+{
+    "format_version":1,
+    "header":{
+        "description":"作者：韩言悦欣",
+        "name":"原版战斗优化",
+        "uuid":"9ea96e7c-280b-4ff9-8440-e3497ea3f1e3",
+        "version":[1,0,1],
+        "min_engine_version":[1,10,0]
+    },
+    "modules":[
+        {
+            "description":"作者：韩言悦欣",
+            "type":"data",
+            "uuid":"e436760a-a86a-4b23-b00a-a3413e2c6047",
+            "version":[1,0,1]
+        }
+    ],
+    "metadata":{ 
+        "product_type": "addon" 
+    }
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": "1.8.0",
+	"animation_controllers": {
+		"controller.animation.elytra":{
+			"states":{
+				"base_jeta":{
+					"transitions":[
+						{"elytra":"query.is_item_equipped == 0 && query.is_item_name_any('slot.armor.chest', 0, 'minecraft:elytra')"}
+					]
+				},
+				"elytra": {
+					"transitions": [
+						{
+							"base_jeta": "(1.0)"
+						}
+					],
+					"on_entry": [
+						"/replaceitem entity @s slot.weapon.mainhand 0 firework_rocket"
+					]
+				}
+			}
+		}
+ 	}
+ }
