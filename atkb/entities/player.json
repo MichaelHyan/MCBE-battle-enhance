@@ -19,7 +19,9 @@
 					"mace",
 					"feather",
 					"compass",
-					"ranged"
+					"ranged",
+					"spear",
+					"trident"
 				]
 			},
 			"animations": {
@@ -34,7 +36,9 @@
 				"mace":"controller.animation.mace",
 				"feather":"controller.animation.feather",
 				"compass": "controller.animation.compass",
-				"ranged": "controller.animation.ranged"
+				"ranged": "controller.animation.ranged",
+				"spear": "controller.animation.spear",
+				"trident": "controller.animation.trident"
 			} 
 		},
 		"component_groups": {

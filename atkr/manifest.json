@@ -5,14 +5,14 @@
         "name":"原版战斗优化",
         "platform_locked":false,
         "uuid":"e7ecd779-9d14-41f4-a960-392032f5748c",
-        "version":[1,0,1]
+        "version":[1,0,3]
     },
     "modules":[
         {
             "description":"作者：韩言悦欣",
             "type":"resources",
             "uuid":"3e7f7581-dcc9-4007-b0cb-25aff1acf72a",
-            "version":[1,0,1]
+            "version":[1,0,3]
         }
     ],
     "metadata":{ 
