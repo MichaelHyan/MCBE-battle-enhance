@@ -21,7 +21,9 @@
 					"compass",
 					"ranged",
 					"spear",
-					"trident"
+					"trident",
+					"fcka",
+					"fckb"
 				]
 			},
 			"animations": {
@@ -38,7 +40,9 @@
 				"compass": "controller.animation.compass",
 				"ranged": "controller.animation.ranged",
 				"spear": "controller.animation.spear",
-				"trident": "controller.animation.trident"
+				"trident": "controller.animation.trident",
+				"fcka": "controller.animation.fcka",
+				"fckb": "controller.animation.fckb"
 			} 
 		},
 		"component_groups": {
