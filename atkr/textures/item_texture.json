@@ -1,0 +1,27 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "longsword_wood": {
+      "textures": "textures/items/longsword_wood.png"
+    },
+    "longsword_stone": {
+      "textures": "textures/items/longsword_stone.png"
+    },
+    "longsword_copper": {
+      "textures": "textures/items/longsword_copper.png"
+    },
+    "longsword_iron": {
+      "textures": "textures/items/longsword_iron.png"
+    },
+    "longsword_gold": {
+      "textures": "textures/items/longsword_gold.png"
+    },
+    "longsword_diamond": {
+      "textures": "textures/items/longsword_diamond.png"
+    },
+    "longsword_netherite": {
+      "textures": "textures/items/longsword_netherite.png"
+    }
+  }
+}
